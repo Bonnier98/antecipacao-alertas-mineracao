@@ -4,7 +4,7 @@ Pipeline de ponta a ponta (ETL + Machine Learning) para prever alertas críticos
 ("don't go") em equipamentos de mineração, com até 4 horas de antecedência —
 construído em Databricks com arquitetura Medalhão (Bronze / Silver / Gold).
 
-**Analise-de-Dados-Avancado-Vale-Barbara-Tavares1 - Copiar.pdf**
+**[Analise-de-Dados-Avancado-Vale-Barbara-Tavares1 - Copiar.pdf](https://github.com/Bonnier98/antecipacao-alertas-mineracao/blob/e7ed062cab3e683f282bd610e5bcf0d6dd3050e9/Analise-de-Dados-Avancado-Vale-Barbara-Tavares1%20-%20Copiar.pdf)**
 
 ---
 
